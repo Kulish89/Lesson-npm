@@ -1,0 +1,23 @@
+{
+  "name": "lesson-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kulish89/Lesson-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kulish89/Lesson-npm/issues"
+  },
+  "homepage": "https://github.com/Kulish89/Lesson-npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
